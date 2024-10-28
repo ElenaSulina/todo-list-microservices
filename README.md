@@ -27,11 +27,11 @@ It provides an API for project and task management (CRUD), and also includes aut
 1. Клонируйте репозиторий / Clone the repository:
 
 ```bash
-git clone https://github.com/ElenaSulina/todo-list.git
+git clone https://github.com/ElenaSulina/todo-list-microservices.git
 ```
 
 ```bash
-cd todo-list
+cd todo-list-microservices
 ```
 
 2. В корневую папку добавьте файл .env и скопируйте туда следующие данные / Add .env file to the root folder and copy the following data there:
